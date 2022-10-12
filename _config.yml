@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Saurabh Sivakumar"
-description              : &description "ChemE PhD Student at UC Davis"
-url                      : https://saurabhsivakumar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Rachita Rana"
+description              : &description "ChemE Ph.D. Student at UC Davis"
+url                      : https://rachitarana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "saurabhsivakumar/saurabhsivakumar.github.io"
+repository               : "Rachita028/rachitarana.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Saurabh Sivakumar"
-  avatar           : "saurabhs.jpg"
-  bio              : "ChemE PhD (Fall 2021) student at UC Davis"
+  name             : "Rachita Rana"
+  avatar           : "main_rachita.jpeg"
+  bio              : "ChemE Ph.D. (Fall 2019) student at UC Davis"
   location         : "Davis,CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "saurabhsivakumar"
+  github           : "Rachita028"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "saurabhsivakumar"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "Rachita Rana"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5812-9312"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
