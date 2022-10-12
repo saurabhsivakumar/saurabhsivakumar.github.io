@@ -2,7 +2,7 @@
 layout: redirect
 title: "CV"
 permalink: /cv/
-destination: ../downloads/Saurabh_CV.pdf
+destination: ../downloads/Rana_cv.pdf
 canonical: true
 ---
 
