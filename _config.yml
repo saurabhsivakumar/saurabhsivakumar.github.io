@@ -86,7 +86,7 @@ author:
   location         : "Davis,CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=1E5k7soAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=EnZZdAgAAAAJ"
   email            : "racrana@ucdavis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Rachita Rana"
+  linkedin         : #"Rachita Rana"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5812-9312"
   pinterest        :
   soundcloud       :
