@@ -249,7 +249,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: posts
+      layout: single
       author_profile: true
       
 # Sass/SCSS
