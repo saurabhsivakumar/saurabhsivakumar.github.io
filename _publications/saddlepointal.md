@@ -1,9 +1,9 @@
 ---
-title: "Offline Active Learning for Saddle point searches"
+title: "Interconversion of Atomically Dispersed Platinum Cations and Platinum Clusters in Zeolite ZSM-5 and Formation of Platinum gem-Dicarbonyls"
 collection: publications
 permalink: /publication/saddlepointal
-date: 2020-11-20
+date: 2022
 venue: 'AIChE Fall 2020 Conference'
-link: 'https://ann20-aiche.ipostersessions.com/default.aspx?s=8C-A5-11-38-08-79-2A-2B-56-EF-25-EF-78-22-1E-65'
-citation: '<b>Sivakumar, Saurabh</b>,Shuaibi, Muhammed, Adams,Matthew, and Ulissi, W. Zachary. AIChE Fall 2020 Conference'
+link: 'https://doi.org/10.1021/jacs.2c05386'
+citation: 'Felvey, Noah; Guo, Jiawei; <b>Rana, Rachita</b>; Xu, Le; Bare, Simon R.; Gates, Bruce C.; Katz, Alexander; Kulkarni, Ambarish R.; Runnebaum, Ron; Kronawitter, Coleman'
 ---
