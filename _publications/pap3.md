@@ -2,7 +2,7 @@
 title: "Atomically Dispersed Platinum in Surface and Subsurface Sites on MgO Have Contrasting Catalytic Properties for CO Oxidation"
 collection: publications
 permalink: /publication/pap3
-date: 2022
+date: 2022-05-29
 link: 'https://doi.org/10.1021/acs.jpclett.2c00667'
 citation: 'Chen, Yizhen; <b>Rana, Rachita*</b>; Huang, Z.; Vila, F. D.; Sours, T.; Kronawitter, Coleman; Bare, Simon R.; ; Kulkarni, Ambarish R.; Gates, B. C.'
 ---
