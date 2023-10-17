@@ -2,7 +2,7 @@
 title: "A Theory-Guided X-ray Absorption Spectroscopy Approach for Identifying Active Sites in Atomically Dispersed Transition-Metal Catalysts"
 collection: publications
 permalink: /publications/pap4
-date: 2021
+date: 2021-09-25
 link: 'https://doi.org/10.1021/jacs.1c07116'
 citation: 'Chen, Yizhen; <b>Rana, Rachita* </b>; Sours, T.; Kronawitter, Coleman; Bare, Simon R.; ; Kulkarni, Ambarish R.; Gates, B. C.'
 ---
