@@ -2,7 +2,7 @@
 title: "Comparative evaluation for catalytic gasification of petroleum coke and asphaltene in subcritical and supercritical water"
 collection: publications
 permalink: /publication/saddlepointal
-date: 2019
+date: 2019-05-12
 link: 'https://doi.org/10.1016/j.jechem.2018.05.012'
 citation: '<b>Rana, R. </b>; Nanda, S.; Maclennan, A; Hu, Y.; Kozinski, J.; Dalai, A. K.'
 ---
