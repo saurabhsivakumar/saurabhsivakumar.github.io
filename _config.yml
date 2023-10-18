@@ -227,12 +227,12 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _outreach
   - scope:
       path: ""
-      type: portfolio
+      type: talks
     values:
-      layout: single
+      layout: talks
       author_profile: true
       share: true
       comment: true
@@ -244,14 +244,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-   # _outreach
-  - scope:
-      path: ""
-      type: outreach
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+   
       
 # Sass/SCSS
 sass:
