@@ -8,5 +8,5 @@ date: 2015
 location: "Saskatoon, Canada"
 --- 
 
-Grading homework assignments and exams. 
+Grading homework assignments and exams was my task as a reader for this course. But this was a unique opprtunity to work under the leadership of [Prof. D.Y. Peng] (https://en.wikipedia.org/wiki/Ding_Yu_Peng),the person who introduced the Peng-Robinson eqaution of state.
 
