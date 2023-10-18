@@ -18,8 +18,8 @@ main:
   #- title: "Workshops"
   #  url: /workshops/
         
-  #- title: "Outreach"
-  #  url: /outreach/
+  - title: "Outreach"
+    url: /outreach/
     
   
     
