@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark"# "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Rachita Rana"
   avatar           : "rachita.jpg"
-  bio              : "Chemical Engineering Ph.D. (Fall 2019) candidate at UC Davis"
+  bio              : "Chemical Engineering Ph.D. (Fall 2019) candidate at UC Davis Intern (June-Dec 2023) @ SLAC & Cagnello Lab (Stanford University)"
   location         : "Davis, CA"
-  employer         : "Intern @SLAC & Cagnello Lab (Stanford University)"
+  employer         : #"Intern @SLAC & Cagnello Lab (Stanford University)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=EnZZdAgAAAAJ"
   email            : "racrana@ucdavis.edu"
