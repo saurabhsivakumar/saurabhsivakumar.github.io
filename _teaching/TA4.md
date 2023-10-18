@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/TA3
 venue: "University of Saskatchewan, Department of Chemical Engineering"
-date: 2016
+date: 2016-01-04
 location: "Saskatoon, Canada"
 --- 
 
