@@ -4,7 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of California Davis, Department of Chemical Engineering"
-date: 2020 (Winter quater) & 2023 (Spring quarter) 
+date: 2020-01-03
+date: 2023-04-02
 location: "Davis, USA"
 ---
 I have thoroughly enjoyed working as a TA for this course. The first time I was TAing this course, my duties involved– providing homework solutions on canvas, grading the homework and exams and holding office hours for the UGs. 
