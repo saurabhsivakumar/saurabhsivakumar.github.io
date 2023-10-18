@@ -230,9 +230,9 @@ defaults:
   # _outreach
   - scope:
       path: ""
-      type: talks
+      type: outreach
     values:
-      layout: talks
+      layout: single
       author_profile: true
       share: true
       comment: true
