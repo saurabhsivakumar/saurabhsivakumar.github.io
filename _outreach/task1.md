@@ -1,6 +1,6 @@
 ---
 title: "RJ for Community Radio"
-collection: talks
+collection: outreach
 type: "Talk"
 permalink: http://banasthali.org/banasthali/wcms/en/home/lower-menu/campus-tour/communication/fmradio/BanasthaliRadio.html
 venue: "Banasthali Radio (FM 90.4)"
