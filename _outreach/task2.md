@@ -8,3 +8,4 @@ date: 2010-01-12
 location: "Saskatoon, Canada"
 ---
 
+<img width="520" alt="image" src="https://github.com/Rachita028/Rachita028.github.io/blob/master/images/cfcr.jpg">
