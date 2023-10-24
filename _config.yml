@@ -230,7 +230,7 @@ defaults:
   # _outreach
   - scope:
       path: ""
-      type: outreach
+      type: talks
     values:
       layout: talk
       author_profile: true
