@@ -6,5 +6,5 @@ date: 2023-10-12
 venue: 'Journal of Chemical Information and Modeling'
 link: 'https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c01431'
 image: '../images/cluster_GA.png'
-citation: 'Shuaibi, Muhammed, <b>Sivakumar, Saurabh</b>, Chen, Rui Qi, and Ulissi, W. Zachary. Machine Learning Science & Technology'
+citation: 'Rajesh K. Raju, <b>Saurabh Sivakumar</b>, Xiaoxiao Wang, and Zachary W. Ulissi.Journal of Chemical Information and Modeling'
 ---
