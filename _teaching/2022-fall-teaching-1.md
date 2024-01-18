@@ -3,7 +3,7 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
-venue: "University of California Davos, Chemical Engineering"
+venue: "University of California Davis, Chemical Engineering"
 date: 2022-09-22
 location: "Davis, USA"
 ---
