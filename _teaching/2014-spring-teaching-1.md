@@ -2,19 +2,10 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2022-fall-teaching-1
+venue: "University of California Davos, Chemical Engineering"
+date: 2022-09-22
+location: "Davis, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Served as the teaching assistant for the course Chemical Reaction Engineering during the Fall quarter 2022. Responsibilities included conducting office hours and grading assignments and exams for a class of 80 students.
